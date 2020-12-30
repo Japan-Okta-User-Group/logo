@@ -2,7 +2,7 @@
 <br>
 
 # はじめに
-本logoデータは、有志により運営されているJapan Okta User Group用のロゴです。
+本logoデータは、有志により運営されているJapan Okta User Group用のロゴです。<br>
 本logoデータについての質問や問い合わせはOkta社ではなく、JOUU運営までお願い致します。
 <br><br>
 
